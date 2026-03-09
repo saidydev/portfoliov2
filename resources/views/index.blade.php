@@ -25,7 +25,7 @@
 
 <body class="bg-[#011635]">
     @include('layouts.nav')
-    <section class="lg:mx-[10%] lg:pt-[10%] pt-[40%] flex flex-col gap-4 lg:w-3/5 mx-[5%] h-screen">
+    <section class="lg:mx-[10%] lg:pt-[10%] pt-[40%] flex flex-col gap-4 lg:w-3/5 mx-[5%] h-screen" id="home">
 
         <h3 class="text-[#4db5ff] text-lg" data-aos="fade-up" data-aos-delay="100">Hi, My name is</h3>
 
@@ -54,8 +54,8 @@
     </section>
 
     {{-- About --}}
-    <section class="lg:mx-[8%] mx-[4%] lg:h-screen" id="about">
-        <div class="flex gap-4 items-center" data-aos="fade-right">
+    <section class="lg:mx-[8%] mx-[4%] lg:h-screen">
+        <div class="flex gap-4 items-center" data-aos="fade-right"  id="about"> 
             <h1 class="text-[#4db5ff] text-xl">About Me</h1>
             <hr class="w-40 h-0.5 bg-gray-400 border-0">
         </div>

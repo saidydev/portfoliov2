@@ -28,13 +28,13 @@
 
             <!-- Desktop Menu -->
             <ul class="hidden md:flex gap-6 items-center text-white font-medium">
-                <li><a href="index.html" class="hover:text-black transition-colors"><span
+                <li><a href="#home" class="hover:text-black transition-colors"><span
                             class="text-[#4db5ff]">01.</span> Home</a></li>
-                <li><a href="about.html" class="hover:text-black transition-colors"><span
+                <li><a href="#about" class="hover:text-black transition-colors"><span
                             class="text-[#4db5ff]">02.</span> About</a></li>
-                <li><a href="projects.html" class="hover:text-black transition-colors"><span
+                <li><a href="#project" class="hover:text-black transition-colors"><span
                             class="text-[#4db5ff]">03.</span> Projects</a></li>
-                <li><a href="contact.html" class="hover:text-black transition-colors"><span
+                <li><a href="#contact" class="hover:text-black transition-colors"><span
                             class="text-[#4db5ff]">04.</span> Contact</a></li>
                 <li>
                     <a href="#" download class="bg-transparent text-[#4db5ff] border border-[#4db5ff] px-4 py-2 rounded-sm text-center w-32
@@ -57,13 +57,13 @@
             class="fixed top-16 right-0 h-screen w-64 transform translate-x-full md:hidden transition-transform duration-500 ease-in-out z-40">
             <ul
                 class="flex flex-col p-6 gap-6 text-white font-medium bg-[#011635]/70 backdrop-blur-md h-full">
-                <li><a href="index.html" class="hover:text-[#4db5ff] transition-colors"><span
+                <li><a href="#home" class="hover:text-[#4db5ff] transition-colors"><span
                             class="text-[#4db5ff]">01.</span> Home</a></li>
-                <li><a href="about.html" class="hover:text-[#4db5ff] transition-colors"><span
+                <li><a href="#about" class="hover:text-[#4db5ff] transition-colors"><span
                             class="text-[#4db5ff]">02.</span> About</a></li>
-                <li><a href="projects.html" class="hover:text-[#4db5ff] transition-colors"><span
+                <li><a href="#project" class="hover:text-[#4db5ff] transition-colors"><span
                             class="text-[#4db5ff]">03.</span> Projects</a></li>
-                <li><a href="contact.html" class="hover:text-[#4db5ff] transition-colors"><span
+                <li><a href="#contact" class="hover:text-[#4db5ff] transition-colors"><span
                             class="text-[#4db5ff]">04.</span> Contact</a></li>
                 <li>
                     <a href="#" download class="bg-transparent text-[#4db5ff] border border-[#4db5ff] px-4 py-2 rounded-sm text-center w-full
